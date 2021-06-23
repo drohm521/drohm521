@@ -1,8 +1,33 @@
-- 👋 Hi, welcome to my page!
-- 👀 I’m interested in learning more programming languages, but I am focusing on PHP/HTML and Java.
-- 🌱 I’m currently learning a lot! 
+## 🌸 Welcome 🌸
 
-<!---
-drohm521/drohm521 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, welcome to my page!
+- 🌱 I’m currently learning a lot and still learning!
+____
+**Languages:** 
+- PHP
+- Java
+- HTML
+- CSS
+- JavaScript
+- JSON
+- C#
+
+**Frameworks:**
+- React
+- React Native
+- .Net
+- Bootstrap
+- Next.js
+
+**UX/UI:**
+- Adobe XD
+- Photoshop
+
+**Other:**
+- Wordpress
+- Arduino
+- Eclipse
+- NotePad++
+- Visual Studio + Visual Studio Code
+____
+[Portfolio](drohm521.github.io)
