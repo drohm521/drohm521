@@ -1,7 +1,7 @@
 ## 🌸 Welcome 🌸
 
 - 👋 Hi, welcome to my page!
-- 🌱 I’m currently learning a lot and still learning!
+- 🌱 I’m currently learning a lot right now!
 ____
 **Languages:** 
 - PHP
