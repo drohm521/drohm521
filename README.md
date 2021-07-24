@@ -11,6 +11,8 @@ ____
 - JavaScript
 - JSON
 - C#
+- jQuery
+- Python
 
 **Frameworks:**
 - React
@@ -25,6 +27,7 @@ ____
 
 **Other:**
 - Wordpress
+- Kali Linux
 - Arduino
 - Eclipse
 - NotePad++
